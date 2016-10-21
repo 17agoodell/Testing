@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AE219EFF-EED0-45F9-FD4B-A0B79E5554DA}") = "Button Testing", "Assembly-CSharp.csproj", "{07C91AEB-E96C-29FB-D21D-AFBF260DA023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C91AEB-E96C-29FB-D21D-AFBF260DA023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C91AEB-E96C-29FB-D21D-AFBF260DA023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C91AEB-E96C-29FB-D21D-AFBF260DA023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C91AEB-E96C-29FB-D21D-AFBF260DA023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
